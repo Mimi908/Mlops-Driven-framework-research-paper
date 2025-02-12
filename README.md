@@ -23,5 +23,7 @@ YOLOv10: Best abiotic stress detection (mAP@50: 77.3%)
 
 
 📥 How to Use this Repository
+
 🔹 Browse the paper in its respective folder.
+
 🔹 Refer to individual README.md files for details.
